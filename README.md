@@ -1,4 +1,5 @@
 # 1 - (Sugerido) Crear entorno virtual
+
 Crear venv:
 
 ```
@@ -19,17 +20,23 @@ deactivate
 
 # 2 - Instalar libreria para manipulacion de archivos Word
 
+Ejecutar:
+
 ```
 pip install docxtpl
 ```
 
 # 3 - Instalar libreria para analizar archivos
 
+Ejecutar:
+
 ```
 pip install pandas
 ```
 
 # 3 - Instalar libreria para analizar archivos excel
+
+Ejecutar:
 
 ```
 pip install openpyxl
