@@ -1,4 +1,11 @@
-# 1 - (Sugerido) Crear entorno virtual
+# Descripcion del programa
+
+Este es un programa para automatizar la creacion de documentos de Word a partir de
+un documento template y datos en un archivo de Excel.
+
+# Instrucciones
+
+## 1 - (Sugerido) Crear entorno virtual
 
 Crear venv:
 
@@ -18,7 +25,7 @@ Desactivar entorno virtual:
 deactivate
 ```
 
-# 2 - Instalar libreria para manipulacion de archivos Word
+## 2 - Instalar libreria para manipulacion de archivos Word
 
 Ejecutar:
 
@@ -26,7 +33,7 @@ Ejecutar:
 pip install docxtpl
 ```
 
-# 3 - Instalar libreria para analizar archivos
+## 3 - Instalar libreria para analizar archivos
 
 Ejecutar:
 
@@ -34,10 +41,18 @@ Ejecutar:
 pip install pandas
 ```
 
-# 3 - Instalar libreria para analizar archivos excel
+## 3 - Instalar libreria para analizar archivos excel
 
 Ejecutar:
 
 ```
 pip install openpyxl
+```
+
+## 4 - Ejecutar script (desde terminal)
+
+Ejecutar:
+
+```
+python automation_docs.py
 ```
