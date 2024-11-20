@@ -13,7 +13,7 @@ Crear venv:
 python -m venv nombre_entorno
 ```
 
-Activar entorno (Windows):
+Activar entorno virtual (Windows):
 
 ```
 carpeta_venv/Scripts/./Activate.ps1
